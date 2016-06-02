@@ -161,7 +161,7 @@ public class Pantalla {
         }
         System.out.println("");
     }
-    public static char pideLetra(){
+    //public static char pideLetra(){
         String letra;
         do{
             letra=pideString("Introduce una letra: ");
